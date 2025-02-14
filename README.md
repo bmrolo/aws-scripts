@@ -7,7 +7,7 @@ Note: Change the `desired-file` to the file that you would like to convert to a 
 ##### Uninstallation
 To uninstall a binary, run `sudo rm -rf /usr/local/bin/binary`
 
-Example: `sudo rm -rf /usr/local/bin/ec2-star`
+Example: `sudo rm -rf /usr/local/bin/ec2-start`
 
 ## Dependencies
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - Used to interact with AWS services. Install instructions are found in documentation 
